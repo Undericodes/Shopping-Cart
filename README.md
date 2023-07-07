@@ -1,4 +1,5 @@
 Shopping Cart Project
+
 This is a JavaScript-based shopping cart project that allows users to add, remove, and manage products in their cart. The project includes features such as quantity adjustment, total calculation, currency switcher, and currency formatting.
 
 Features
